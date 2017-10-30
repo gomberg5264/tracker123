@@ -1,7 +1,7 @@
 # Price Tracker
 ### Track prices of products from online shopping sites.
 
-##### This is an Android Application.
+##### This is an Android Application written in Java.
 
 Add a product and receive a notification when its price drops.<br> 
 Never miss the lowest price again! Currently only products from 'Amazon' are supported.
